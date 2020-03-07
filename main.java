@@ -6,13 +6,6 @@ package Tubes;
  */
 // TuPro TBA
 
-// Kelompok 10
-// IF-42-01
-
-// Syamsul Rizal - 1301184064
-// Raihan Nugraha S - 1301184243
-// Adham Erlangga S - 1301184198
-
 import java.util.*;
 public class main {
     public static void main(String[] args) {
